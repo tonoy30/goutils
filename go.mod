@@ -1,3 +1,3 @@
-module github.com/tonoy30/goutils
+module goutils
 
 go 1.17
